@@ -1,0 +1,13 @@
+bookstore{ 
+	color: white; 
+	background-color : gray; 
+	width: 100%; 
+}
+title, author, year,price { 
+	display : flex;
+} 
+title { 
+	color:black;
+	font-size : 25px; 
+	font-weight : bold; 
+} 

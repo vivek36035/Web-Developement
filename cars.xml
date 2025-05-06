@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+    <car>
+        <name>Honda Civic</name>
+        <year>2022</year>
+        <engine>2.0L I4</engine>
+        <mileage>15.5</mileage>
+        <price>25000</price>
+    </car>
+    <car>
+        <name>Toyota Corolla</name>
+        <year>2021</year>
+        <engine>1.8L I4</engine>
+        <mileage>16.0</mileage>
+        <price>23000</price>
+    </car>
+    <car>
+        <name>Ford Mustang</name>
+        <year>2023</year>
+        <engine>5.0L V8</engine>
+        <mileage>12.0</mileage>
+        <price>45000</price>
+    </car>
+    <car>
+        <name>Chevrolet Malibu</name>
+        <year>2020</year>
+        <engine>1.5L I4</engine>
+        <mileage>14.5</mileage>
+        <price>22000</price>
+    </car>
+    <car>
+        <name>BMW 3 Series</name>
+        <year>2022</year>
+        <engine>2.0L I4</engine>
+        <mileage>18.0</mileage>
+        <price>40000</price>
+    </car>
+    <car>
+        <name>Mercedes-Benz C-Class</name>
+        <year>2021</year>
+        <engine>2.0L I4</engine>
+        <mileage>17.0</mileage>
+        <price>42000</price>
+    </car>
+    <car>
+        <name>Audi A4</name>
+        <year>2022</year>
+        <engine>2.0L I4</engine>
+        <mileage>16.5</mileage>
+        <price>43000</price>
+    </car>
+    <car>
+        <name>Hyundai Elantra</name>
+        <year>2021</year>
+        <engine>2.0L I4</engine>
+        <mileage>15.0</mileage>
+        <price>21000</price>
+    </car>
+    <car>
+        <name>Kia Optima</name>
+        <year>2020</year>
+        <engine>1.6L I4</engine>
+        <mileage>14.0</mileage>
+        <price>20000</price>
+    </car>
+    <car>
+        <name>Subaru Impreza</name>
+        <year>2023</year>
+        <engine>2.0L I4</engine>
+        <mileage>19.0</mileage>
+        <price>27000</price>
+    </car>
+</cars>
